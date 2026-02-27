@@ -1,0 +1,8 @@
+*.pt
+base_model/
+model_taskA_sst2/
+model_taskB_ner/
+multi_task_model/
+results_ner/
+results_sst2/
+.DS_Store
